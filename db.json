@@ -1,0 +1,64 @@
+{
+  "Vehicle": {
+    "Id": "4e10aa9a-a696-4881-8154-0ae9d86b7a45",
+    "CarStatus": {
+      "Locked": true,
+      "Battery": 54,
+      "AvailableRange": 297,
+      "TotalDistance": 36012.12,
+      "Weight": 1200,
+      "TemperatureInside": 27,
+      "TemperatureOutside": 34,
+      "Humitity": 46,
+      "Pressure": 998,
+      "Wind": 5.6
+    },
+    "AirConditioned": {
+      "Status": true,
+      "TemperatureSetted": 25,
+      "FanSpeed": 3,
+      "Mode": "program"
+    },
+    "Controls": {
+      "Lights": false,
+      "FrontTrunk": true,
+      "Trunk": true,
+      "FrontLeftDoor": true,
+      "FronRightDoor": true,
+      "BackLeftDoor": true,
+      "BackRightDoor": true,
+      "ChargePort": true
+    },
+    "System": {
+      "OwnerId": "4e10aa9a-a696-4881-8154-0ae9d86b7a45",
+      "Time": "2012-04-23T18:25:43.511Z",
+      "ModelYear": 2018,
+      "CarReview": "2012-04-23T18:25:43.511Z",
+      "Insurance": "2012-04-23T18:25:43.511Z"
+    },
+    "Model": {
+      "Description": "Some description of car",
+      "Chassi": "7176267SJWUB821JJHS",
+      "Engine": 188,
+      "DriveType": "4WD",
+      "Transmission": "Automatic",
+      "Fuel": "Diesel",
+      "TopSpeed": 230,
+      "ZeroToHundred": 7
+    }
+  },
+  "User": {
+    "OwnerId": "f6bd7608-b983-4a7e-91af-aa300726a353",
+    "Vehicles": [
+      "4e10aa9a-a696-4881-8154-0ae9d86b7a45"
+    ],
+    "Name": "Leandro",
+    "Surname": "Chaves",
+    "Email": "leadrofchaves@outlook.com",
+    "Password": "123456",
+    "Address": "Rua Gurgel 11",
+    "createdAt": "2012-04-23T18:25:43.511Z",
+    "updatedAt": "2012-04-23T18:25:43.511Z",
+    "deletedAt": null
+  }
+}
